@@ -1,0 +1,9 @@
+Edges in the MST:
+2 -- 3 == 4
+0 -- 3 == 5
+0 -- 1 == 10
+Total weight of MST: 19
+
+--------------------------------
+Process exited after 0.007862 seconds with return value 0
+Press any key to continue . . .
