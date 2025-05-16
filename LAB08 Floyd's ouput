@@ -1,0 +1,19 @@
+Enter number of vertices: 3
+Enter adjacency matrix (use 99999 for INF):
+3
+6
+7
+4
+3
+4
+4
+2
+8
+Shortest distances between every pair of vertices:
+      3      6      7
+      4      3      4
+      4      2      6
+
+--------------------------------
+Process exited after 9.522 seconds with return value 0
+Press any key to continue . . .
