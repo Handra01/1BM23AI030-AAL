@@ -1,0 +1,12 @@
+Enter the size of the board (N): 6
+Solution to the N-Queens problem is:
+0 1 0 0 0 0
+0 0 0 1 0 0
+0 0 0 0 0 1
+1 0 0 0 0 0
+0 0 1 0 0 0
+0 0 0 0 1 0
+
+--------------------------------
+Process exited after 2.02 seconds with return value 0
+Press any key to continue . . .
